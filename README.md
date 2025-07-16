@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pete-ongsuwan from Thailand.
 - 👀 I’m interested in PCB Design, Arduino C++, Web Programming, Linux Administration.
-- 🌱 I’m currently learning PHP, JavaScript, etc.
+- 🌱 I’m currently learning Laravel, PHP, JavaScript, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
